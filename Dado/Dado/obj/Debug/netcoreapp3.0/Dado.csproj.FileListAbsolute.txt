@@ -1,0 +1,11 @@
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.exe
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.deps.json
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.runtimeconfig.json
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.runtimeconfig.dev.json
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.dll
+D:\Documents\GitHub\dado\Dado\Dado\bin\Debug\netcoreapp3.0\Dado.pdb
+D:\Documents\GitHub\dado\Dado\Dado\obj\Debug\netcoreapp3.0\Dado.AssemblyInfoInputs.cache
+D:\Documents\GitHub\dado\Dado\Dado\obj\Debug\netcoreapp3.0\Dado.AssemblyInfo.cs
+D:\Documents\GitHub\dado\Dado\Dado\obj\Debug\netcoreapp3.0\Dado.dll
+D:\Documents\GitHub\dado\Dado\Dado\obj\Debug\netcoreapp3.0\Dado.pdb
+D:\Documents\GitHub\dado\Dado\Dado\obj\Debug\netcoreapp3.0\Dado.csprojAssemblyReference.cache
